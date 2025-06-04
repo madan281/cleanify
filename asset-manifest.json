@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cleanify/static/css/main.66226b1c.css",
+    "main.js": "/cleanify/static/js/main.3700ecb6.js",
+    "static/js/453.e27df7ac.chunk.js": "/cleanify/static/js/453.e27df7ac.chunk.js",
+    "index.html": "/cleanify/index.html",
+    "main.66226b1c.css.map": "/cleanify/static/css/main.66226b1c.css.map",
+    "main.3700ecb6.js.map": "/cleanify/static/js/main.3700ecb6.js.map",
+    "453.e27df7ac.chunk.js.map": "/cleanify/static/js/453.e27df7ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66226b1c.css",
+    "static/js/main.3700ecb6.js"
+  ]
+}
